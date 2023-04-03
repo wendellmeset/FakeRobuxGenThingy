@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Staatliches';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Staatliches Regular'), local('Staatliches-Regular'), url(https://fonts.gstatic.com/s/staatliches/v3/HI_OiY8KO6hCsQSoAPmtMYebvpU.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'Jost';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Jost Regular'), local('Jost-Regular'), url(https://fonts.googleapis.com/css2?family=Jost&display=swap) format('truetype');
+}
